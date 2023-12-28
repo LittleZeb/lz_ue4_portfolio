@@ -21,6 +21,8 @@ You as the player will be able to direct your three allied creatures to position
 
 ### Scouts Causeway (WIP)
 
+<img src="screenshots/scw_01.png" width="50%">
+
 #### Description
 
 Take the role of a scout from one of six civilizations during the bronze age to discover this hexagon world that you all share. Find materials to make equipment and trade to take you through harsh deserts to unforgiving articlandscapes. 
