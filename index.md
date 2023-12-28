@@ -5,9 +5,7 @@
 
 ### There Will be Monsters (WIP)
 
-<img src="screenshots/twbm_01.png">
-<img src="screenshots/twbm_02.png">
-<img src="screenshots/twbm_03.png">
+<img src="screenshots/twbm_01.png" width="50%">
 
 #### Description
 There willl be monsters is a fps game where you as the player together with three other non playable characters defend against a attack against your base. 
@@ -19,11 +17,9 @@ You as the player will be able to direct your three allied creatures to position
 * Unreal Engine 4 (v4.25)
 * GIMP
 
-### Scouts Causeway (WIP)
+---
 
-<img src="screenshots/sc_01.png">
-<img src="screenshots/sc_02.png">
-<img src="screenshots/sc_03.png">
+### Scouts Causeway (WIP)
 
 #### Description
 
