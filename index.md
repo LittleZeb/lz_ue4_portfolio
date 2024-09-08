@@ -33,3 +33,19 @@ The game will end when you either have discovered a full map of all tiles or met
 * Blender
 * Unreal Engine 4 (v4.25)
 * GIMP
+
+---
+
+### Divine Steward (WIP)
+
+<img src="screenshots/divs_01.png" width="50%">
+
+#### Description
+
+Take the role as deity in mysterious world starting with 3 villagers. 
+Use your power to gather resources, order construction of houses and monunements and increase the villagers devoution for you. All for the village to survive and you to be their divine figure. 
+
+#### Tools
+* Blender
+* Unreal Engine 5 (v5.3.2)
+* GIMP
