@@ -1,7 +1,25 @@
 # Personal Portfolio 
 
+## Playable on Itch IO
 
-## My Projects
+### Before Darkness Arrive
+<img src="screenshots/bda_01.png" width="50%">
+
+#### Description
+
+As the player you will build a city to stand against an incoming wave of darkness
+
+#### Tools
+* Blender
+* Unreal Engine 5 (v5.3.2)
+* Audacity
+* GIMP
+
+Itch.io Link: 
+https://zigg-e.itch.io/before-darkness-arrives
+
+## Not Playable / WIP / On Hold
+
 
 ### There Will be Monsters (WIP)
 
@@ -49,3 +67,7 @@ Use your power to gather resources, order construction of houses and monunements
 * Blender
 * Unreal Engine 5 (v5.3.2)
 * GIMP
+
+---
+
+
